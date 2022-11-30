@@ -1,0 +1,2 @@
+#!/bin/bash
+if [ -d "/tmp/u" ]; then mv [[:upper:]]* /tmp/u
