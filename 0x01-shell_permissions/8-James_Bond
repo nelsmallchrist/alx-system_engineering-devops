@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo chmod og=rwx u+rwx hello
